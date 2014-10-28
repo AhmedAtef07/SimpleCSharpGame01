@@ -1,0 +1,13 @@
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\bin\Debug\Game_1.exe.config
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\bin\Debug\Game_1.exe
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\bin\Debug\Game_1.pdb
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1.csprojResolveAssemblyReference.cache
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\MainWindow.baml
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\MainWindow.g.cs
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\App.g.cs
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1_MarkupCompile.cache
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1.g.resources
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1.Properties.Resources.resources
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1.csproj.GenerateResource.Cache
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1.exe
+E:\Ahmed\My Projects\C# Games\Game_1\Game_1\obj\Debug\Game_1.pdb
