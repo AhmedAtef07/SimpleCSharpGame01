@@ -22,7 +22,7 @@ namespace Game_1
         {
             count++;
             shot = new Rectangle();
-            shot.Fill = new SolidColorBrush(Colors.Green);
+            shot.Fill = new SolidColorBrush(Colors.Red);
             shot.StrokeThickness = 0;
             shot.Width = 10;
             shot.Height = 10;
